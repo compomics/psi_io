@@ -1,0 +1,32 @@
+{
+  "PROTEIN_ID": {
+    "mandatory": true,
+    "values": [
+      "protein_id"
+    ]
+  },
+  "PROTEIN_GROUP_ID": {
+    "mandatory": true,
+    "values": [
+      "protein_group_id"
+    ]
+  },
+  "PROTEIN_GROUP_Q_VALUE": {
+    "mandatory": true,
+    "values": [
+      "protein-group-q-value"
+    ]
+  },
+  "PROTEIN_GROUP_PEP": {
+    "mandatory": true,
+    "values": [
+      "protein-group-PEP"
+    ]
+  },
+  "PEPTIDES": {
+    "mandatory": true,
+    "values": [
+      "peptides"
+    ]
+  }
+}

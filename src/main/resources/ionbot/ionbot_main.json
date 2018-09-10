@@ -1,0 +1,134 @@
+{
+  "SPEC_ID": {
+    "mandatory": true,
+    "values": [
+      "spec_id"
+    ]
+  },
+  "CHARGE": {
+    "mandatory": true,
+    "values": [
+      "charge"
+    ]
+  },
+  "PEPTIDE": {
+    "mandatory": true,
+    "values": [
+      "peptide"
+    ]
+  },
+  "MODIFIED_PEPTIDE": {
+    "mandatory": true,
+    "values": [
+      "modified_peptide"
+    ]
+  },
+  "OMEGA_SCORE_1": {
+    "mandatory": true,
+    "values": [
+      "omega_score"
+    ]
+  },
+  "DB": {
+    "mandatory": true,
+    "values": [
+      "DB"
+    ]
+  },
+  "NTERM_RANK": {
+    "mandatory": true,
+    "values": [
+      "nterm_rank",
+    ]
+  },
+  "CTERM_RANK": {
+    "mandatory": false,
+    "values": [
+      "cterm_rank"
+    ]
+  },
+  "PEPTIDEIDS": {
+    "mandatory": false,
+    "values": [
+      "Peptide IDs"
+    ]
+  },
+  "MZ": {
+    "mandatory": true,
+    "values": [
+      "mz"
+    ]
+  },
+  "MS2PIP_PEARSONR": {
+    "mandatory": false,
+    "values": [
+      "ms2pip-pearsonr"
+    ]
+  },
+  "MS2PIP_MAE": {
+    "mandatory": true,
+    "values": [
+      "ms2pip-mae"
+    ]
+  },
+  "OMEGA_SCORE_2": {
+    "mandatory": true,
+    "values": [
+      "omega-score"
+    ]
+  },
+  "OMEGA_Q_VALUE": {
+    "mandatory": true,
+    "values": [
+      "omega-q-value"
+    ]
+  },
+  "OMEGA_PEP": {
+    "mandatory": true,
+    "values": [
+      "omega-PEP"
+    ]
+  },
+  "PROTEINS": {
+    "mandatory": true,
+    "values": [
+      "proteins"
+    ]
+  },
+  "MUTATED": {
+    "mandatory": true,
+    "values": [
+      "is_mutated"
+    ]
+  },
+  "UNIMOD_MODIFIED": {
+    "mandatory": true,
+    "values": [
+      "is_unimod_modified"
+    ]
+  },
+  "UNIMOD_PTM": {
+    "mandatory": true,
+    "values": [
+      "unimod_ptm"
+    ]
+  },
+  "PROTEIN_GROUP": {
+    "mandatory": true,
+    "values": [
+      "protein_group"
+    ]
+  },
+  "PROTEIN_GROUP_Q_VALUE": {
+    "mandatory": true,
+    "values": [
+      "protein-group-q-value"
+    ]
+  },
+  "PROTEIN_GROUP_PEP": {
+    "mandatory": true,
+    "values": [
+      "protein-group-PEP"
+    ]
+  }
+}
